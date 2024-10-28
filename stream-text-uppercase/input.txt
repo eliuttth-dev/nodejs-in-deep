@@ -1,0 +1,6 @@
+Hello, World!
+This is an example input file.
+It contains multiple lines of text.
+Let's see how the Node.js stream processes this data.
+Enjoy learning Node.js core modules!
+
